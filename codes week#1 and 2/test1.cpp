@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+main(){
+cout<<"ENTER name">>;
+int name;
+cin>> name;
+cout<<"ENTER rollno";
+int rollno ;
+cin>>rollno;
+cout<<"ENTER aggregate";
+int aggregate;
+cin>>aggregate;
+cout<<"ENTER section"";
+int section;
+cin>>section;
+ }
